@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+header {
+    text-align: center;
+    color: white;
+}
+img
+{
+    width: auto;
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+    margin-left:450px;
+    justify-content: center;
+}
+section
+{
+    margin-top: 0px;
+}
+.logo
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 640px;
+
+}
+
+
+.logo > .logo1 > span
+{
+    
+    color: black;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 12px;
+}
+.part {
+    justify-content: center;
+    margin-left: 590px;
+    color: black;
+    line-height:0.01;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.the{
+    margin-left: 50px;
+    font-size:15px ;
+    padding-bottom: 0px;
+}
+.addams{
+    position: absolute;
+    margin-top: 8px;
+    font-size: 45px;
+}
+.desc {
+    margin-top: 580px;
+    text-align: center;
+    margin-right: 75px;
+    color: burlywood;
+}
+.f > p{
+    font-size:9px;
+}
+.s > p{
+    font-size:10px;
+}
+.t > p{
+    font-size:5.5px;
+}
+.release > h2{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+}
